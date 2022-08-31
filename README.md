@@ -23,10 +23,19 @@ I'm Junior Frontend Developer.
 
 #### :woman_student: What can you see here: 
 
-[Mind games](https://github.com/Idzanaagi/frontend-project-lvl1) – 5 math games to warm up your brain. It's my first study project. Used ESLint, CodeClimat, Github Action. The main thing that this project gave me was an understanding of how to build an architecture (in this case, launching games) so that this logic is in one place.
+[Mind games](https://github.com/Idzanaagi/frontend-project-lvl1) – 5 math games to warm up your brain. It's my first study project. 
 
-[Difference Calculator](https://github.com/Idzanaagi/frontend-project-lvl2) – allows you to compare two configuration files (with json, yaml or yml extension). Second study project. Used Commander, Higher-Order Functions. Recursive traversal of tree structures was difficult for me, but I've overcome it
+:point_right: Of the requirements – modular approach, the use of abstractions and pure functions, code compliance with the Airbnb standard. Worked with npm, makefile, readline-sync.
+The main thing that this project gave me was an understanding of how to build an architecture (in this case, launching games) so that this logic is in one place.
 
-[RSS aggregator](https://github.com/Idzanaagi/frontend-project-lvl3) – it is necessary to implement downloading and displaying RSS feed data. I'm working on this project right now. Use i18next, webpack, promise. The code is raw and will undoubtedly change (for the better).
+[Difference Calculator](https://github.com/Idzanaagi/frontend-project-lvl2) – allows you to compare two configuration files. Second study project. 
 
-[Days without incident](https://github.com/Idzanaagi/daysWithoutIncident) –  my pet project. Console utility count the number of days. To get the result, the user needs to run the utility 2 times. Plans to add the ability to keep multiple counts, see the number of days at the moment (without resetting the current progress).
+:point_right: Of the requirements - development through testing, continuous integration, the utility must work with both relative and absolute paths. Used CLI Builder (commander.js), fs (node,js), lodash, test coverage. Practiced working with json, yaml formats and recursion.
+
+[RSS aggregator](https://github.com/Idzanaagi/frontend-project-lvl3) – it is necessary to implement downloading and displaying RSS feed data. I'm working on this third study project right now. 
+
+:point_right: Of the requirements – auto-updating posts, using promise, webpack, bootstrap, i18next, on-change for the View layer, axios, yup (async), DOM api. The code is raw and will undoubtedly change (for the better).
+
+[Days without incident](https://github.com/Idzanaagi/daysWithoutIncident) – my pet project. Console utility count the number of days. To get the result, the user needs to run the utility 2 times. 
+
+:point_right: The main goal (apart from practical use) was to consolidate the skills already acquired. At the same time, I figured out the formatting and conversion of dates in JS. There are plans to expand the functionality (for example, add parallel maintenance of several calculations), cover it with tests.
