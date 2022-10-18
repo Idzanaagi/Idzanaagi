@@ -32,7 +32,7 @@ The main thing that this project gave me was an understanding of how to build an
 
 :point_right: Of the requirements - development through testing, continuous integration, the utility must work with both relative and absolute paths. Used CLI Builder (commander.js), fs (node,js), lodash, test coverage. Practiced working with json, yaml formats and recursion.
 
-[RSS aggregator](https://github.com/Idzanaagi/frontend-project-lvl3) – it is necessary to implement downloading and displaying RSS feed data. I'm working on this third study project right now. 
+[RSS aggregator](https://github.com/Idzanaagi/frontend-project-lvl3) – allows you to download and display RSS feed data. I'm working on this third study project right now. 
 
 :point_right: Of the requirements – auto-updating posts, using promise, webpack, bootstrap, i18next, on-change for the View layer, axios, yup (async), DOM api. The code is raw and will undoubtedly change (for the better).
 
