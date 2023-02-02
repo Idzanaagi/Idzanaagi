@@ -40,3 +40,9 @@ The main thing that this project gave me was an understanding of how to build an
 [Days without incident](https://github.com/Idzanaagi/daysWithoutIncident) – my pet project. Console utility count the number of days. To get the result, the user needs to run the utility 2 times. 
 
 :point_right: The main goal (apart from practical use) was to consolidate the skills already acquired. At the same time, I figured out the formatting and conversion of dates in JS. There are plans to expand the functionality (for example, add parallel maintenance of several calculations), cover it with tests.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/idzanaagi/badges/large)](https://www.codewars.com/users/username) 
+
+
