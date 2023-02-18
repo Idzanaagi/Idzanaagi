@@ -24,16 +24,16 @@ I'm Junior Frontend Developer.
 
 #### :woman_student: What can you see here: 
 
-[Mind games](https://github.com/Idzanaagi/frontend-project-lvl1) – 5 math games to warm up your brain. It's my first study project. 
+[Mind games](https://github.com/Idzanaagi/frontend-project-lvl1) – 5 math games to warm up your brain.
 
 :point_right: Of the requirements – modular approach, the use of abstractions and pure functions, code compliance with the Airbnb standard. Worked with npm, makefile, readline-sync.
 The main thing that this project gave me was an understanding of how to build an architecture (in this case, launching games) so that this logic is in one place.
 
-[Difference Calculator](https://github.com/Idzanaagi/frontend-project-lvl2) – allows you to compare two configuration files. Second study project. 
+[Difference Calculator](https://github.com/Idzanaagi/frontend-project-lvl2) – allows you to compare two configuration files. 
 
 :point_right: Of the requirements - development through testing, continuous integration, the utility must work with both relative and absolute paths. Used CLI Builder (commander.js), fs (node,js), lodash, test coverage. Practiced working with json, yaml formats and recursion.
 
-[RSS aggregator](https://github.com/Idzanaagi/frontend-project-lvl3) – allows you to download and display RSS feed data. I'm working on this third study project right now. 
+[RSS aggregator](https://github.com/Idzanaagi/frontend-project-lvl3) – allows you to download and display RSS feed data. 
 
 :point_right: Of the requirements – auto-updating posts, using promise, webpack, bootstrap, i18next, on-change for the View layer, axios, yup (async), DOM api. The code is raw and will undoubtedly change (for the better).
 
@@ -44,5 +44,3 @@ The main thing that this project gave me was an understanding of how to build an
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/idzanaagi/badges/large)](https://www.codewars.com/users/username) 
-
-
