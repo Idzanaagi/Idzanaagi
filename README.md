@@ -1,54 +1,73 @@
-## Hey! Nice to see you
+Привет
+
+Меня зовут Настя, я Junior Frontend Developer.
+
+В разработке привлекает многообразие задач и способов их решения. Нравится изучать новые вещи и применять их на практике (так и появился, например, этот [реп](https://github.com/Idzanaagi/sdet)).
 
 
-I'm Junior Frontend Developer.
+Связаться: anmorgunowa.job@gmail.com
 
-In development I appreciate the variety of tasks and ways to solve them. I like to learn new things and use them in practice.
-
-Contact me: anmorgunowa.job@gmail.com
-
-#### :hammer_and_wrench: Languages and Tools I use:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+#### :hammer_and_wrench: Что я использую часто:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+
+#### :hammer_and_wrench: Что я использую реже:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+### Что посмотреть: 
 
+### Web:
 
-#### :woman_student: What can you see here: 
+[Registration form](https://github.com/Idzanaagi/registration-form-vue3-app) - форма входа на Vue3. 
+<br> Стек: Vue3, Vue Router, bootstrap tooltip.
+<br> Лирика: проект, заставивший задуматься о мобильных пользователях.
 
-[Mind games](https://github.com/Idzanaagi/frontend-project-lvl1) – 5 math games to warm up your brain.
+[Landing template for startup](https://github.com/Idzanaagi/Landing-template-for-startups) - адаптивный лендинг, где основной упор был на созданиии переиспользуемого кода.
+<br> Стек: HTML5, CSS3 (flexbox), Sass, Webpack, Figma, BEM.
+<br> Лирика: повысила скилл адаптива и разжилась инструментами для этого дела.
 
-:point_right: Of the requirements – modular approach, the use of abstractions and pure functions, code compliance with the Airbnb standard. Worked with npm, makefile, readline-sync.
-The main thing that this project gave me was an understanding of how to build an architecture (in this case, launching games) so that this logic is in one place.
+[RSS agregator](https://github.com/Idzanaagi/frontend-project-lvl3) - позволяет загружать и читать Rss ленты. 
+<br> Стек: JavaScript, axios, on-change, i18next, yup, bootstrap, webpack, CI.
+<br> Лирика: первое сознательное погружение в концепт MVC.
 
-[Difference Calculator](https://github.com/Idzanaagi/frontend-project-lvl2) – allows you to compare two configuration files. 
+### Консольные утилиты:
+[Difference calculator](https://github.com/Idzanaagi/frontend-project-lvl2) - сравнивает 2 конфигурационных файла (с расширением json, yaml или yml) и выводит результат в нужном формате. 
+<br> Стек: JavaScript, commander, Jest, CI.
+<br> Лирика: применять TDD оказалось не так и просто, но тестировать понравилось.
 
-:point_right: Of the requirements - development through testing, continuous integration, the utility must work with both relative and absolute paths. Used CLI Builder (commander.js), fs (node,js), lodash, test coverage. Practiced working with json, yaml formats and recursion.
+[Days without incident](https://github.com/Idzanaagi/daysWithoutIncident) - считает промежуток прошедших дней c определённой даты до сегодня (включительно).
+<br> Стек: JavaScript, Node.js.
 
-[RSS aggregator](https://github.com/Idzanaagi/frontend-project-lvl3) – allows you to download and display RSS feed data. 
+[Mind games](https://github.com/Idzanaagi/frontend-project-lvl1) - набор из 5 консольных математических игр.
+<br> Стек: JavaScript.
 
-:point_right: Of the requirements – auto-updating posts, using promise, webpack, bootstrap, i18next, on-change for the View layer, axios, yup (async), DOM api. The code is raw and will undoubtedly change (for the better).
+### Другое:
+[UI autotest](https://github.com/Idzanaagi/sdet) - проект UI-автотестов по предоставленным тест-кейсам.
+<br> Стек: Java 19, maven, junit5, selenium, allure.
+<br> Лирика: Очень крутой опыт как минимум в плане быстрого погружения в новые инструменты и новую область.
 
-[Days without incident](https://github.com/Idzanaagi/daysWithoutIncident) – my pet project. Console utility count the number of days. To get the result, the user needs to run the utility 2 times. 
+[migration to ts](https://github.com/Idzanaagi/migration-to-ts) - результат миграции приложения с JS на TS.
+<br> Стек: TypeScript.
 
-:point_right: The main goal (apart from practical use) was to consolidate the skills already acquired. At the same time, I figured out the formatting and conversion of dates in JS. There are plans to expand the functionality (for example, add parallel maintenance of several calculations), cover it with tests.
+### Репы с задачами:
+[core js](https://github.com/Idzanaagi/core-js-101) - частично/полностью решённые задачки на: Strings, Numbers, Arrays, etc.
+<br> Стек: JavaScript
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[html bulder](https://github.com/Idzanaagi/HTML-builder) - частично/полностью решённые задачки на: чтение файла с выводом содержимого в консоль, запись консольного ввода в файл, вывод информации о файлаx хранящихся в папке, копирование папки, сборка css бандла.
+<br> Стек: Node.js
 
-[![codewars](https://www.codewars.com/users/idzanaagi/badges/large)](https://www.codewars.com/users/username) 
+[node js basic](https://github.com/Idzanaagi/node-nodejs-basics/tree/idzanaagi-nodejs-basics) - частично/полностью решённые задачки на: File system, Command line interface, Modules, Hash, Zlib, Child Processes.
+<br> Стек: Node.js
