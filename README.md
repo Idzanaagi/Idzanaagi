@@ -35,7 +35,7 @@
 <br> Стек: Vue3, Vue Router, bootstrap tooltip.
 <br> Лирика: проект, заставивший задуматься о мобильных пользователях.
 
-[Landing template for startup](https://github.com/Idzanaagi/Landing-template-for-startups) - адаптивный лендинг, где основной упор был на созданиии переиспользуемого кода.
+[Landing template for startup](https://github.com/Idzanaagi/Landing-template-for-startups) - адаптивный лендинг, где основной упор был на создании переиспользуемого кода.
 <br> Стек: HTML5, CSS3 (flexbox), Sass, Webpack, Figma, BEM.
 <br> Лирика: повысила скилл адаптива и разжилась инструментами для этого дела.
 
