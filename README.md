@@ -41,7 +41,7 @@
 [Registration form](https://github.com/Idzanaagi/registration-form-vue3-app) - форма входа на Vue3. 
 <br> Стек: Vue3, Vue Router, bootstrap tooltip.
 <br> Лирика #1: проект, заставивший задуматься о мобильных пользователях.
-<br> Лирика #2: внезапно базовые тесты UI под эту форму - [тык](https://github.com/Idzanaagi/UI-autotest-registartion-form-vue3-app).
+<br> Лирика #2: внезапно базовые UI автотесты под эту форму - [тык](https://github.com/Idzanaagi/UI-autotest-registartion-form-vue3-app).
 
 [Landing template for startup](https://github.com/Idzanaagi/Landing-template-for-startups) - адаптивный лендинг, где основной упор был на создании переиспользуемого кода.
 <br> Стек: HTML5, CSS3 (flexbox), Sass, Webpack, Figma, BEM.
