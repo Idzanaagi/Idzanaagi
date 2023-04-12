@@ -61,7 +61,7 @@
 [Mind games](https://github.com/Idzanaagi/frontend-project-lvl1) - набор из 5 консольных математических игр.
 <br> Стек: JavaScript.
 
-### [QA automation](№qa):
+### [QA automation](#qa):
 [UI autotest](https://github.com/Idzanaagi/sdet) - мне дали стек, тест-кейсы, ссылку и сказали: "Протестируй UI". Я и протестировала...
 <br> Стек: Java 19, maven, junit5, selenium, allure.
 <br> Лирика: история про быстрое погружение в новую область №1.
