@@ -1,20 +1,22 @@
-Привет
-
-Меня зовут Настя, я Junior Frontend Developer.
-
-В разработке привлекает многообразие задач и способов их решения. Нравится изучать новые вещи и применять их на практике. Поэтому здесь, например, появился [этот](#QA-automation) раздел.
-
-Нравится как писать логику, так и верстать.
-
-Стараюсь заботиться о качестве кода и о других разработчиках, используя eslint, prettier, conventional commits (и обновляя устаревшие зависимости). 
-
-Уже словила выгорание от разработки, но пережила и продолжила (разрабатывать, не выгорать).
-
-Дайте мне профессионала в менторы, немного времени и горы сверну (т.е. принесу денег бизнесу).
-
 Связаться: anmorgunowa.job@gmail.com
 
-#### :hammer_and_wrench: Что я использую часто:
+
+#### :hammer_and_wrench: SDET настоящее:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Selenium_Grid-69629F?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/JUnit_5-DC524A?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Rest%20Assured-179E35?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Cucumber-1DBB68?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Allure-97CC64?style=for-the-badge)
+
+#### :hammer_and_wrench: Фронтендерское прошлое:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,9 +26,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
-#### :hammer_and_wrench: Что я использую реже:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -36,24 +35,32 @@
 
 ### Что посмотреть: 
 
-### Web:
+
+#### QA automation:
+
+[UI autotests: registeration form](https://github.com/Idzanaagi/UI-1) - фреймворк UI-автотестов. Функциональное, интеграционное тестирование. Кроссбраузерное, кроссплатформенное, параллельное тестирование. Отчёты Allure. CI - Docker, Jenkins. Немного BDD.
+
+[API/DB autotests: WordPress, MySQL](https://github.com/Idzanaagi/BackAutotests) - автотесты для тестирования базы данных MySQL и API WordPress.
+
+[UI autotests: BankingProject](https://github.com/Idzanaagi/sdet) - первые шаги в автоматизации UI.
+
+[API autotests: pokeapi](https://github.com/Idzanaagi/API-autotests-task) - первые шаги в автоматизации API. 
+
+
+#### Web:
 
 [Registration form](https://github.com/Idzanaagi/registration-form-vue3-app) - форма входа на Vue3. 
 <br> Стек: Vue3, Vue Router, bootstrap tooltip.
-<br> Лирика: проект, заставивший задуматься о мобильных пользователях.
 
 [Landing template for startup](https://github.com/Idzanaagi/Landing-template-for-startups) - адаптивный лендинг, где основной упор был на создании переиспользуемого кода.
 <br> Стек: HTML5, CSS3 (flexbox), Sass, Webpack, Figma, BEM.
-<br> Лирика: повысила скилл адаптива и разжилась инструментами для этого дела.
 
 [RSS agregator](https://github.com/Idzanaagi/frontend-project-lvl3) - позволяет загружать и читать Rss ленты. 
 <br> Стек: JavaScript, axios, on-change, i18next, yup, bootstrap, webpack, CI.
-<br> Лирика: первое сознательное погружение в концепт MVC.
 
-### Консольные утилиты:
+#### Консольные утилиты:
 [Difference calculator](https://github.com/Idzanaagi/frontend-project-lvl2) - сравнивает 2 конфигурационных файла (с расширением json, yaml или yml) и выводит результат в нужном формате. 
 <br> Стек: JavaScript, commander, Jest, CI.
-<br> Лирика: применять TDD оказалось не так и просто, но тестировать понравилось.
 
 [Days without incident](https://github.com/Idzanaagi/daysWithoutIncident) - считает промежуток прошедших дней c определённой даты до сегодня (включительно).
 <br> Стек: JavaScript, Node.js.
@@ -61,21 +68,8 @@
 [Mind games](https://github.com/Idzanaagi/frontend-project-lvl1) - набор из 5 консольных математических игр.
 <br> Стек: JavaScript.
 
-### QA automation:
-[UI autotest](https://github.com/Idzanaagi/sdet) - мне дали стек, тест-кейсы, ссылку и сказали: "Протестируй UI". Я и протестировала...
-<br> Стек: Java 19, maven, junit5, selenium, allure.
-<br> Лирика: история про быстрое погружение в новую область №1.
 
-[UI-autotests-task](https://github.com/Idzanaagi/UI-autotests-task) - тест-кейсы в этот раз не дали, дали задание их написать и подрубить CI, параллельное тестирование и т.п.
-<br> Стек: Java 19, maven, junit5, selenium, allure, Jenkins.
-<br> Лирика: история про быстрое погружение в новую область №2.
-
-[API-autotests-task](https://github.com/Idzanaagi/API-autotests-task) - училась на покемонах тестировать API. 
-<br> Стек: Java 19, maven, junit5, Rest Assured, Jackson, allure, Jenkins.
-<br> Лирика: история про быстрое погружение в новую область №3.
-
-
-### Другое:
+#### Другое:
 [migration to ts](https://github.com/Idzanaagi/migration-to-ts) - результат миграции приложения с JS на TS.
 <br> Стек: TypeScript.
 
